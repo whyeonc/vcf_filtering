@@ -1,4 +1,4 @@
-#AWK script for filtering VCF files and calling genotypes based on DV/DP ratios 
+##AWK script for filtering VCF files and calling genotypes based on DV/DP ratios 
 
 ## Input file format
 The script reads VCF files and assumes that
